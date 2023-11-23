@@ -24,4 +24,6 @@
 
   - 실행 영상 (준비중)
 
+    <img src="ezgif-4-a26c5b9a32.gif">
+
 <br/>
