@@ -4,7 +4,7 @@
 
 - 과제 : '작성한 날짜 저장하기' 하나만 완료
 
-<br/>
+<br/><br/>
 
 ### ⚠️ 문제
 
@@ -15,6 +15,8 @@
   - 차선책으로 프론트엔드 코드를 md 문서에 삽입하여 공유합니다.
 
     - <a href="https://github.com/SangYoonLee1231/hufslion-react-server-api/blob/main/frontend-code.md">바로가기</a>
+
+<br/>
 
 - '작성한 날짜 저장하기'를 구현했으나, 원하는대로 동작하지 않습니다.
 
