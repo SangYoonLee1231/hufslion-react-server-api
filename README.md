@@ -14,6 +14,6 @@
 
   - 차선책으로 프론트엔드 코드를 md 문서에 삽입하여 공유합니다.
 
-    - <a href="">바로가기</a>
+    - <a href="https://github.com/SangYoonLee1231/hufslion-react-server-api/blob/main/frontend-code.md">바로가기</a>
 
 <br/>

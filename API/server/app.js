@@ -12,7 +12,7 @@ const diaryList = [
   {
     id: 1,
     title: "오늘은 리엑트 세션",
-    content: "CS는 왜 이렇게 노잼일까",
+    content: "열심히 배워보자",
     date: "2022년 11월 23일",
   },
 ];
