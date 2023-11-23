@@ -13,6 +13,7 @@ const diaryList = [
     id: 1,
     title: "오늘은 리엑트 세션",
     content: "CS는 왜 이렇게 노잼일까",
+    date: "2022년 11월 23일",
   },
 ];
 
@@ -25,11 +26,12 @@ app.get("/api/diary", function (req, res) {
 });
 
 app.post("/api/diary", (req, res) => {
-  const { title, content } = req.body;
+  const { title, content, date } = req.body;
   diaryList.push({
     id: id++,
     title,
     content,
+    date,
   });
   return res.send("success");
 });
