@@ -16,4 +16,12 @@
 
     - <a href="https://github.com/SangYoonLee1231/hufslion-react-server-api/blob/main/frontend-code.md">바로가기</a>
 
+- '작성한 날짜 저장하기'를 구현했으나, 원하는대로 동작하지 않습니다.
+
+  - 제출을 2번 클릭해야 비로소 리스트에 반영되고, 그 중 첫번째 일기는 날짜가 표기되지 않습니다.
+
+  - 이 부분에 대해선 좀 더 고민해보겠습니다.
+
+  - 실행 영상 (준비중)
+
 <br/>
